@@ -1,5 +1,7 @@
-package mysql;
 // TASK 3 ATM INTERFACE
+
+
+package mysql;
 
 import static  java.lang.System.out;
 import java.util.Scanner;
